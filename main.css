@@ -1,0 +1,13 @@
+body {
+	margin: 0 0 0 20px;
+	font-family: sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+}
+.qa-unit {
+	margin-top: 20px;
+	width: 50%;
+}
+.answer {
+	padding: 5px 8px 5px 8px;
+}
